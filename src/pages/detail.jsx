@@ -1,4 +1,4 @@
-function Test() {
+function Detail() {
   return (
     <div>
       <div>테스트 디테일 페이지입니다.</div>
@@ -6,4 +6,4 @@ function Test() {
   );
 }
 
-export default Test;
+export default Detail;
