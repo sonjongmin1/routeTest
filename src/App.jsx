@@ -7,7 +7,7 @@ function App() {
     <>
       <Routes>
         <Route path="/routeTest" element={<div>테스트 메인페이지</div>} />
-        <Route path="/routeTest/test" element={<div>{<Test />}</div>} />
+        <Route path="/routeTest/test" element={<Test />} />
       </Routes>
     </>
   );
